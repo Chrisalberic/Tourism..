@@ -1,0 +1,234 @@
+body{
+
+	margin:0;
+	padding:0;
+	max-width: 100%;
+    overflow-x: hidden;
+	background-image:url("images and videos/images.jpg");
+    background-size: 100px;
+	background-position:center;
+	text-align: center;
+
+}
+
+header{
+    display:flex;
+    justify-content: space-between;
+    margin-top: 20px;
+
+
+    
+}
+
+h1{
+	position: center;
+	font-family: 'BallparkWeiner', serif;
+	float: right;
+	margin-top: 20px;
+	color: #000000;
+
+}
+
+
+#description{
+
+	float:right;
+	margin-left: 150px;
+	
+
+	
+}
+
+
+h3{
+
+font-family: Garamond, serif;
+margin-left: 80px;
+margin-top:0px;
+
+
+}
+
+ul{
+
+ list-style:none;
+ display:flex;
+ height:30px;
+ width:350px;
+ justify-content: space-between;
+ margin-right:230px;
+ margin-top: 70px;
+ font-size: 20px;
+}
+
+
+.today a{
+	text-decoration: none;
+	color:blue;
+}
+
+
+
+.today a:hover{
+	color: red;
+	border-bottom: 1px solid red;
+}
+	
+ .today2 a{
+
+  
+    text-decoration: none;
+	color:blue;
+}
+
+.today2 a:hover{
+
+	color: red;
+	border-bottom: 1px solid red;
+
+}
+
+
+.today3 a{
+	    text-decoration: none;
+	    color:blue;
+}
+
+
+.today3 a:hover{
+
+	color: red;
+	border-bottom: 1px solid red;
+}
+
+.today4 a{
+       text-decoration: none;
+	    color:blue;
+}
+
+.today4 a:hover{
+
+	color: red;
+	border-bottom: 1px solid red;
+}
+
+.articledot{
+
+	border:3px solid #760001;
+	background-color:#760001 ;
+	text-decoration:none;
+    color: white;
+    font-size: 20px;
+    border-radius: 12px;
+    padding:3px 3px 3px 3px;
+    margin-bottom: 50px;
+    margin-right: 10px;
+}
+
+.travel{
+	margin-top:30px;
+	font-family: Lucida Console,Monospaced;
+	margin-right: 40px;
+
+}
+2px
+.picture{
+	border-radius: 20px;
+}
+	
+.book,.art,.about,.tweet{
+	 margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+    font-family:time new roman,serif;
+    font-size:20px;
+}
+
+h3{
+	margin-left: 20px;
+}
+   
+ .media img{
+
+
+ 	border:1px solid black;
+ 	margin: 4px;
+
+
+ }
+
+ h3{
+
+ 	margin-top: 20px;
+ }
+
+#list{
+
+	margin-left: 500px;
+    margin-right: auto;
+    width: 50em;
+    font-family:time new roman,serif;
+    font-size:20px;
+    display: flex;
+
+}
+
+.list1 ul,.list2 ul{
+
+	margin-left:auto;
+    margin-right:auto;
+    width: 7em;
+	display:block;
+	list-style:square;
+	margin-top: 10px;
+	color:#760001;
+	font-family: Arial Narrow,sans-serif;
+	 
+}
+
+
+.end{
+
+	margin-top: 100px;
+	display: flex;
+	margin-right: 100px;
+
+
+}
+
+
+.end p{
+	
+    margin-left:950px;
+
+
+}
+
+
+.end img{
+
+	
+	margin:4px;
+	height: 30px;
+	margin-top: 15px;
+
+
+}
+
+footer{
+
+	
+height: 60px;
+width: 1500px;
+background-color:#000000;
+color:#ffffff;	
+ 
+    
+}
+
+
+
+
+
+
+
